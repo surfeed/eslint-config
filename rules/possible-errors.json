@@ -1,0 +1,15 @@
+{
+    "rules": {
+        "no-extra-parens": ["error", "functions"],
+        "no-import-assign": "error",
+        "no-irregular-whitespace": [
+            "error",
+            {
+                "skipStrings": true,
+                "skipRegExps": true,
+                "skipTemplates": true
+            }
+        ],
+        "no-template-curly-in-string": "error"
+    }
+}

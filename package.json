@@ -1,0 +1,30 @@
+{
+    "name": "@surfeed/eslint-config",
+    "version": "1.0.0",
+    "description": "Shareable ESLint config for Surfeed's style guide.",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/surfeed/eslint-config"
+    },
+    "bugs": {
+        "url": "https://github.com/surfeed/eslint-config/issues"
+    },
+    "homepage": "https://github.com/surfeed/eslint-config#readme",
+    "contributors": [
+        {
+            "name": "Sergey Polyatykin",
+            "url": "https://github.com/myateznik"
+        }
+    ],
+    "keywords": [
+        "eslint",
+        "eslintconfig",
+        "surfeed",
+        "styleguide"
+    ],
+    "main": ".eslintrc.json",
+    "peerDependencies": {
+        "eslint": ">=6.4.0"
+    }
+}
