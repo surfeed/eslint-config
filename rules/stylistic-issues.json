@@ -5,7 +5,6 @@
         "array-element-newline": ["error", { "multiline": true }],
         "block-spacing": "error",
         "brace-style": "error",
-        "capitalized-comments": "error",
         "comma-dangle": [
             "error",
             {
