@@ -64,7 +64,8 @@
             {
                 "code": 80,
                 "tabWidth": 4,
-                "ignoreUrls": true
+                "ignoreUrls": true,
+                "ignoreTemplateLiterals": true
             }
         ],
         "max-params": ["error", { "max": 2 }],
